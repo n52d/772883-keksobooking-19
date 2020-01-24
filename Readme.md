@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Валера Селезнёв](https://up.htmlacademy.ru/javascript/19/user/772883).
-* Наставник: `Убайд Исаев`.
+* Наставник: [Убайд Исаев](https://htmlacademy.ru/profile/id1340949).
 
 ---
 
